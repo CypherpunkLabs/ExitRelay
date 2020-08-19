@@ -37,3 +37,10 @@ ExitNodes {$countrycode} StrictNodes 1
 
 ```
 
+
+If you want to exclude exits, do so by adding the following:
+
+```
+ExcludeNodes $ip, $ip
+
+```
