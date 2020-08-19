@@ -25,8 +25,10 @@ If you are using macOS the torrc will be found in the following location: ~/Libr
 Open up your torrc with your favorite editor and add the following lines:
 
 
+This is an example of one of the running exits, you can comma separate the configuration to add more exits. 
+
 ```
-ExitNodes $IP(Or you can use the exit's fingerprint)
+ExitNodes 51.81.32.169
 
 ```
 
