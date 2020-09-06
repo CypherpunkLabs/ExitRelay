@@ -151,7 +151,7 @@ RelayBandwidthBurst 200000 KBytes # But allow bursts up to 200KB (1600Kb)
 ##
 #ContactInfo Random Person <nobody AT example dot com>
 ## You might also include your PGP or GPG fingerprint if you have one:
-ContactInfo CypherpunkLabs Cypherpunk <Cypherpunklabs@protonmail.com>
+ContactInfo CypherpunkLabs Cypherpunk <info@cypherpunklabs.com>
 
 ## Uncomment this to mirror directory information for others. Please do
 ## if you have enough bandwidth.
